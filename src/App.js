@@ -1,11 +1,11 @@
 import React from "react";
-import TextHighlither from "./TextHighlither";
+import TextHighlighter from "./TextHighlighter/TextHighlighter";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <TextHighlither />
+      <TextHighlighter />
     </div>
   );
 }
